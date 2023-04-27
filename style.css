@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    height: 200px;
+    background-image:linear-gradient(to right, purple, yellow, purple, yellow);
+}
+
+.link-header{
+    color: blue;
+    text-align: center;
+    padding: 70px 0px 0px 0px;
+    text-decoration: none;
+}
+
+footer{
+    background-image:linear-gradient(to down, purple, yellow, purple, yellow);
+}
